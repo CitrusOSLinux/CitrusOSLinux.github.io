@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/CitrusOSLinux/%s",
+  "packages": [
+    "filesystem",
+    "iana-etc"
+  ]
+}
