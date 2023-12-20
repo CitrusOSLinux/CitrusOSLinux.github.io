@@ -1,7 +1,7 @@
 {
-  "source": "https://github.com/CitrusOSLinux/%s",
+  "source": "https://github.com/CitrusOSLinux/%s/download/%v/pkgdata.json",
   "packages": [
-    "filesystem",
-    "iana-etc"
+    { "name": "filesystem", "version": "2023.0.0" },
+    { "name": "iana-etc", "version": "20231117-1" }
   ]
 }
